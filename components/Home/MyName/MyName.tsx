@@ -78,7 +78,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
       >
         I am a full-stack web developer specializing in developing full-stack web applications using practical frameworks.
         I am passionate about solving problems for others.
-        A good solution for me usually takes a bit more creativity to adapt and take more effort to be perfect.vv
+        A good solution for me usually takes a bit more creativity to adapt and take more effort to be perfect.
       </motion.h3>
       <motion.div
         initial={{ y: 10, opacity: 0 }}
