@@ -108,7 +108,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Shopify, Sanity</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/topsecretagent008/Taxi-betting-game-frontend" />
+                <GithubIcon link="https://github.com/super1114/Taxi-betting-game-frontend" />
                 <a
                   href="https://tfl-site-frontend.vercel.app/"
                   target={"_blank"}
@@ -197,7 +197,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">TypeScript</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/topsecretagent008/Red-devil-FE-next-tailwind-" />
+                <GithubIcon link="https://github.com/super1114/Red-devil-FE-next-tailwind-" />
                 <a
                   href="https://tfl-site-frontend.vercel.app/"
                   target={"_blank"}
@@ -282,7 +282,7 @@ export default function SomethingIveBuilt() {
 
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/topsecretagent008/bonspocker-new-frontend" />
+                <GithubIcon link="https://github.com/super1114/bonspocker-new-frontend" />
                 <a
                   href="https://tfl-site-frontend.vercel.app/"
                   target={"_blank"}
@@ -387,7 +387,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">PWA</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
-                <GithubIcon link="https://github.com/topsecretagent008/VantaSite-Next-Tailwind" />
+                <GithubIcon link="https://github.com/super1114/VantaSite-Next-Tailwind" />
                 <a
                   href="https://tfl-site-frontend.vercel.app/"
                   target={"_blank"}
